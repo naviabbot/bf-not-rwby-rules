@@ -1,0 +1,6 @@
+# Chapter 1: The World That Remains
+## Introduction
+The World that Remains is a unique Urban Fantasy setting for Chris Gonnerman's *Basic Fantasy RPG* taking inspiration from a certain video game adaptation of Bram Stoker's *Dracula* (whose second game "borrowed" boxart from the cover of a game module whose catagorical identification is I6) and an American web cartoon series where the main power source is brightly colored crystallized magic. In this setting, you will go up against both the forces of evil in any form they take. This supplement relies off of the Basic Fantasy Core Rules, the PDF is found for free at basicfantasy.org.
+
+## The World Itself
+Life sprung up from the dust of the world and to the dust they shall return. With the advent of the emotion of hope came that of despair. Manifesting as the demons we call The Shadows of Despair, these monsters are numerous - from the Angel to the Vampire. However, not all of the Shadows stick to feeding off of the hope. Recognizing the danger that exists for the normal beings of the land, the Angels, the Lycankind, and some of the Vampires teamed up with humans to form the 
