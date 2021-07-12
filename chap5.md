@@ -1,0 +1,4 @@
+# Chapter 5: The Shadows of Despair
+
+## The Wolf's Snarl
+For years, Humans and "friendly" Shadows of Despair have always been on edge. This is even more of a case when it comes to the Wolf's Snarl, an agency of human hating Lycankind who wishes nothing but to be the dominant species. They will do anything just to attack, especially by cutting off the supply of Beacon's Cross Cesarium deliveries. Their threat can be felt anywhere. To determine the threat level for the day, roll 1d10 and multiply the result by ten. On a threat of 80 or higher, 2d6 Shifted Wolf's Snarl Agents with 2HD will attack the party if the party is away from town. If the threat level is between 50-80, their attack on a local group is an automatic rumor.
